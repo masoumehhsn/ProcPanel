@@ -1,0 +1,8 @@
+module ProcPanel
+typeinfo appProcPanel.qmltypes
+prefer :/qt/qml/ProcPanel/
+Main 1.0 Main.qml
+Details 1.0 Details.qml
+Overview 1.0 Overview.qml
+depends QtQuick
+

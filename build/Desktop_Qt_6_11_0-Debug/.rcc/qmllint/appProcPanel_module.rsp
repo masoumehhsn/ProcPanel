@@ -1,0 +1,14 @@
+-I
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug
+-I
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/ProcPanel
+-I
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug
+-I
+/home/soniya/Qt/6.11.0/gcc_64/qml
+--resource
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/.qt/rcc/qmake_ProcPanel.qrc
+--resource
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/.qt/rcc/appProcPanel_raw_qml_0.qrc
+--module
+ProcPanel

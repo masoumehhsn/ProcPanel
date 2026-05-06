@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/ProcPanel/">
+    <file alias="Main.qml">/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/Main.qml</file>
+    <file alias="Details.qml">/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/Details.qml</file>
+    <file alias="Overview.qml">/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/Overview.qml</file>
+  </qresource>
+</RCC>
+

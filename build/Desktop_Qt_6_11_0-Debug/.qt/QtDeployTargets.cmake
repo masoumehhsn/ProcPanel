@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appProcPanel_FILE /media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/appProcPanel)
+set(__QT_DEPLOY_TARGET_appProcPanel_TYPE EXECUTABLE)

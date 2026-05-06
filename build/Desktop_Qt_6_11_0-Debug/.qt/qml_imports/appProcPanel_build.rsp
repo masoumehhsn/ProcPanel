@@ -1,0 +1,14 @@
+-rootPath
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel
+-cmake-output
+-output-file
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/.qt/qml_imports/appProcPanel_build.cmake
+-importPath
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug
+-importPath
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/ProcPanel
+-importPath
+/home/soniya/Qt/6.11.0/gcc_64/qml
+-qrcFiles
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/.qt/rcc/qmake_ProcPanel.qrc
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/.qt/rcc/appProcPanel_raw_qml_0.qrc

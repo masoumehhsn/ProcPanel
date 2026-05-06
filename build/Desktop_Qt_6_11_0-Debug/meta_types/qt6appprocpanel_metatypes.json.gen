@@ -1,0 +1,184 @@
+[
+    {
+        "classes": [
+            {
+                "className": "ProcessModel",
+                "lineNumber": 22,
+                "object": true,
+                "qualifiedClassName": "ProcessModel",
+                "slots": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 176,
+                        "name": "refresh",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QAbstractTableModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "processmodel.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "ProcManager",
+                "lineNumber": 7,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "pid",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 3,
+                        "lineNumber": 15,
+                        "name": "stopProc",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "pid",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 4,
+                        "lineNumber": 16,
+                        "name": "resumeProc",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "pid",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 5,
+                        "lineNumber": 17,
+                        "name": "terminateProc",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "column",
+                                "type": "int"
+                            },
+                            {
+                                "name": "order",
+                                "type": "Qt::SortOrder"
+                            }
+                        ],
+                        "index": 6,
+                        "lineNumber": 18,
+                        "name": "sort",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": true,
+                        "index": 0,
+                        "lineNumber": 10,
+                        "name": "procModel",
+                        "notify": "procModelChanged",
+                        "override": false,
+                        "read": "procModel",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "ProcessModel*",
+                        "user": false,
+                        "virtual": false,
+                        "write": "setProcModel"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": true,
+                        "index": 1,
+                        "lineNumber": 11,
+                        "name": "cpuUsage",
+                        "notify": "cpuUsageChanged",
+                        "override": false,
+                        "read": "cpuUsage",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false,
+                        "virtual": false,
+                        "write": "setCpuUsage"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": true,
+                        "index": 2,
+                        "lineNumber": 12,
+                        "name": "memUsage",
+                        "notify": "memUsageChanged",
+                        "override": false,
+                        "read": "memUsage",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false,
+                        "virtual": false,
+                        "write": "setMemUsage"
+                    }
+                ],
+                "qualifiedClassName": "ProcManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 27,
+                        "name": "procModelChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "lineNumber": 28,
+                        "name": "cpuUsageChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "lineNumber": 29,
+                        "name": "memUsageChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "procmanager.h",
+        "outputRevision": 69
+    }
+]

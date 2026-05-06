@@ -1,0 +1,2 @@
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/appProcPanel_autogen/include/../EWIEGA46WW/moc_processmodel.cpp.json
+/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/appProcPanel_autogen/include/../EWIEGA46WW/moc_procmanager.cpp.json

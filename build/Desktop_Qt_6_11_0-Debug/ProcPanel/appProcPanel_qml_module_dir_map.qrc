@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ProcPanel">/media/soniya/Work/Project/linux/ProcPanel/ProcPanel/build/Desktop_Qt_6_11_0-Debug/ProcPanel</file>
+
+  </qresource>
+</RCC>
