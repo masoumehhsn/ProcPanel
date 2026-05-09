@@ -3,6 +3,8 @@
 A lightweight Process Monitoring Panel for Linux built with C++, Qt, and QML.
 It provides real-time system process visualization and monitoring with a modern UI.
 
+![alt text](https://github.com/masoumehhsn/ProcPanel/blob/main/res/screenshot.png)
+
 ## 🚀Features
 
 ### Real-time process monitoring
