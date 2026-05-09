@@ -1,3 +1,15 @@
 build/
 .qtcreator/
-
+cmake-build-debug/
+cmake-build-release/
+.vs/
+.vscode/
+*.o
+*.a
+*.so
+*.dylib
+*.lib
+*.dll
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
