@@ -7,11 +7,10 @@ It provides real-time system process visualization and monitoring with a modern 
 
 ## 🚀Features
 
-###Responsive UI built with QML*
-###Linux-based system monitoring using /proc*
+#### Responsive UI built with QML
+#### Linux-based system monitoring using /proc
 
-### Real-time process monitoring
-Displays:
+#### Real-time process monitoring displays:
 - **Process name**
 - **PID**
 - **CPU usage**
