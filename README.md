@@ -7,12 +7,16 @@ It provides real-time system process visualization and monitoring with a modern 
 
 ## 🚀Features
 
+###Responsive UI built with QML*
+###Linux-based system monitoring using /proc*
+
 ### Real-time process monitoring
 Displays:
 - **Process name**
 - **PID**
 - **CPU usage**
 - **Memory usage**
+
 
 ### Sort processes:
 - **Ascending / Descending order**
@@ -25,9 +29,6 @@ Displays:
 ### Live charts for:
 - **CPU usage**
 - **Memory usage**
-
-- **Responsive UI built with QML**
-- **Linux-based system monitoring using /proc**
 
 ### 🛠️ Tech Stack
 - **C++17**
